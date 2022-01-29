@@ -9,7 +9,7 @@
 
 ##### The analysis should contain the following:
 ### 1.	Overview of the analysis: Explain the purpose of this analysis.
-
+W. Avy is interested in the weather temperatures during the year in Ohau so that he knows when to open his ice cream shop.  He has asked XXX to compare temperatures in the summer to the winter temperatures.  Using (insert file), the weather for the months of June and December will be queried and organized for comparison.  The three key differences in the weather results will be highlighted for W. Avy's consideration.  A summary of the results will be provided along with recommendations for aditional analysis. 
 
 ### 2.	Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
