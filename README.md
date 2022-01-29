@@ -1,6 +1,7 @@
-# Surfs_up
-Module 9
+# Surfs_up      Module 9
+
 ## Cheryl Berger
+
 ### Deliverable 3: A written report for the statistical analysis (20 points)
 
 ### Deliverable 3 Instructions
@@ -35,17 +36,28 @@ Module 9
 ### Determine the Summary Statistics for the month of December
 
 #### Run the query
+![image](https://user-images.githubusercontent.com/94234511/151652520-f5bfac51-0f3a-415c-b444-e3e613138f1c.png)
 
 #### Make a list
+![image](https://user-images.githubusercontent.com/94234511/151652534-a59b8813-39ac-49de-be4c-f7b8f075d910.png)
 
 #### Create the DataFrame
+![image](https://user-images.githubusercontent.com/94234511/151652547-4736bc2d-3f5b-461b-8c7d-33250efbc9af.png)
 
 #### Calculate the Summary Statistics
+![image](https://user-images.githubusercontent.com/94234511/151652569-b8300c0c-3e98-41fd-a8c9-0f0da55571cd.png)
 
 #### Plot the data
+![image](https://user-images.githubusercontent.com/94234511/151652583-e58972dd-f7fb-4dd4-9433-85fbe28161ff.png)
 
-#### 3.	Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+### Key Difference #1
+### Key Difference #2
+### Key Difference #3
 
+### 3.	Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+##### High Level Summary
+##### Additional Query 1
+##### Additional Query 2
 
 
 
