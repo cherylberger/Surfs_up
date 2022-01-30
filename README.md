@@ -61,7 +61,7 @@ The average temperatures measured 74.9F in June and 72.0F in December, with June
 
 ####    #2:  Range of Temperatures June vs December
     
-In June, temperatures were observed in the range of 64 6p 85F, oompared to 56 to 83F in December. The lowest temperature observed in December was 56F compared to 64F in June. Interestingly, the maximum temperature in June was 85F compared to 83F in December, clearly there are still very warm days in December in Oahu, Hawaii!  
+In June, temperatures were observed in the range of 64F to 85F, oompared to 56F to 83F in December dataset. The lowest (min) temperature observed in December was 56F compared to 64F in June. Interestingly, the maximum (max) temperature in June was 85F compared to 83F in December, clearly there are still very warm days in December in Oahu, Hawaii!  
 
 ![image](https://user-images.githubusercontent.com/94234511/151689826-a6943314-d586-4ffd-aa0d-d1001422c516.png)  ![image](https://user-images.githubusercontent.com/94234511/151689845-d20da4b9-1e9c-4dc8-b9c4-329c36577b1e.png)
  
