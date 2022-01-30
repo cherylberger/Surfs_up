@@ -23,7 +23,7 @@ Using Python, Pandas functions and methods, and SQLAlchemy, filter the column of
 ![image](https://user-images.githubusercontent.com/94234511/151652299-e988d0ea-1b1d-4dbb-8432-4d4a59a45d14.png)
 
 #### Create a Pandas DataFrame to store the temperature data for June from 2010 to 2019
-![image](https://user-images.githubusercontent.com/94234511/151652322-94f576af-b11a-4676-bef7-3cfc2ab29c8f.png
+![image](https://user-images.githubusercontent.com/94234511/151688779-992864a6-9955-4468-a29c-4f64d2dccdea.png)
 
 #### Calculate the summary statistics using the DataFrame created for the June query results. 
 ![image](https://user-images.githubusercontent.com/94234511/151652333-23eb4565-6cf0-453f-8c5b-5bbb1a45c705.png)
