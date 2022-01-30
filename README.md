@@ -9,7 +9,7 @@ W. Avy is interested in the weather temperatures during the calendar year in Oha
 
 ### 2a. Connect to the Database and gather tools and methods to perfom the analysis
         
-Using Python, Pandas functions and methods, and SQLAlchemy, filter the column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures           for the month of June. Load all dependencies and import the required functions as displayed in the code block from file https://github.com/cherylberger/Surfs_up/blob/main/SurfsUp_Challenge.ipynb. Create the base engine to connect Python to the database and reflect the Measurement table to ensure the connection has been made. 
+Using Python, Pandas functions and methods, and SQLAlchemy, filter the column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures           for the month of June. Load all dependencies and import the required functions as displayed in the code block from file [Surfs_up_Challenge.ipynb](https://github.com/cherylberger/Surfs_up/blob/main/SurfsUp_Challenge.ipynb). Create the base engine to connect Python to the database and reflect the Measurement table to ensure the connection has been made. 
 
 ![image](https://user-images.githubusercontent.com/94234511/151652230-b1577202-8252-457b-a806-072910b02c20.png)
 
@@ -33,7 +33,7 @@ Using Python, Pandas functions and methods, and SQLAlchemy, filter the column of
 
 ### 2c. Determine the Summary Statistics for the month of December
 
-Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the             temperatures for the month of December. The dependencies were loaded in Step 1 before analyzing the Juen results, the same dependencies and functions will be needed             again for the analysis of the December data.  The code detailed below was added to new code blocks in                         https://github.com/cherylberger/Surfs_up/blob/main/SurfsUp_Challenge.ipynb.
+Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the             temperatures for the month of December. The dependencies were loaded in Step 1 before analyzing the Juen results, the same dependencies and functions will be needed             again for the analysis of the December data.  The code detailed below was added to new code blocks in [Surfs_up_Challenge.ipynb](https://github.com/cherylberger/Surfs_up/blob/main/SurfsUp_Challenge.ipynb.)
 
 #### Run the query that that filters the Measurement table and collects the temperature values for the month of December
 ![image](https://user-images.githubusercontent.com/94234511/151652520-f5bfac51-0f3a-415c-b444-e3e613138f1c.png)
