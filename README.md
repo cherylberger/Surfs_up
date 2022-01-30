@@ -10,7 +10,7 @@ W. Avy is interested in the weather temperatures during the year in Ohau so that
 
 ### 2a. Connect to the Database and gather tools and methods to perfom the analysis
         
-Using Python, Pandas functions and methods, and SQLAlchemy, filter the column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures           for the month of June. Load all dependencies and import the required functions as displayed in the code block from file (Filename). Create the base engine to connect             Python to the database and reflect the Measurement table to ensure the connection has been made. 
+Using Python, Pandas functions and methods, and SQLAlchemy, filter the column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures           for the month of June. Load all dependencies and import the required functions as displayed in the code block from file https://github.com/cherylberger/Surfs_up/blob/main/SurfsUp_Challenge.ipynb. Create the base engine to connect Python to the database and reflect the Measurement table to ensure the connection has been made. 
 
 ![image](https://user-images.githubusercontent.com/94234511/151652230-b1577202-8252-457b-a806-072910b02c20.png)
 
@@ -70,12 +70,12 @@ Less data points in the December results. 1517 compared to 1700 for June. The re
 ## 3.	Summary of the Surfs_Up Analysis: 
 
 #### High Level Summary
-      Based on the temperature analysis, the 
+Based on the temperature analysis, the 
    
 #### Additional Query 1  
-      Gather precipitation results for each month of the year and determine if there is a month or series of months were high precipition would preclude beach-goers desire for         ice cream.  
+Gather precipitation results for each month of the year and determine if there is a month or series of months were high precipition would preclude beach-goers desire for         ice cream.  
 
 #### Additional Query 2  
-       Compare temperatures from each weather station to determine if location on the Island impacts either the temperature or the amount of precipitation.
-       Also look for trends across the entire dataset, were their storms or other events that impacted the weather in Oahu? 
+Compare temperatures from each weather station to determine if location on the Island impacts either the temperature or the amount of precipitation.
+Also look for trends across the entire dataset, were their storms or other events that impacted the weather in Oahu? 
 
