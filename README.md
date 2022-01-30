@@ -3,7 +3,7 @@
 ### Cheryl Berger
 
 ## 1.	Overview of the Surfs_Up Analysis
-W. Avy is interested in the weather temperatures during the year in Ohau so that he knows when to open his ice cream shop.  He has asked XXX to compare temperatures in the summer to the winter temperatures to determine if it would be lucrative to reamain open all year long.  Using the the recent weather data found in file Hawaiii.sqlite https://github.com/cherylberger/Surfs_up/commit/56f426f175677560eba267b43b0a7858cbc551ce, the weather for the months of June and December will be queried and organized for comparison.  Three key differences in the weather results will be highlighted for W. Avy's consideration.  A summary of the results will be provided along with recommendations for additional analysis. 
+W. Avy is interested in the weather temperatures during the calendar year in Ohau so that he knows when to open his ice cream shop.  He has asked XXX to compare temperatures in the summer to the winter temperatures to determine if it would be lucrative to reamain open all year long.  Using the the recent weather data found in file Hawaiii.sqlite https://github.com/cherylberger/Surfs_up/commit/56f426f175677560eba267b43b0a7858cbc551ce, the weather for the months of June and December will be queried and organized for comparison.  Three key differences in the weather results will be highlighted for W. Avy's consideration.  A summary of the results will be provided along with recommendations for additional analysis. 
 
 ## 2.	Surfs_Up Analysis and Results: 
 
@@ -54,19 +54,20 @@ Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the 
 
 ####    #1:  Average Temperatures June vs December
 
-The average temperatures measured 74.9F in June and 72.0F in December, with June temperatures averaging approximately 7% higher than December. The data appears normally distributed and largely centralized around the mean for both June and December.  A comparison of the results using a histogram shows that during both June and December, the mean and mode are near in both datasets. 
+The average temperatures measured 74.9F in June and 72.0F in December, with June temperatures averaging approximately 7% higher than December. The data appears normally distributed and largely centralized around the mean for both June and December.  Hpwever, the frequency of temperatures between 71F and 80F in June was similar for the years measured comparison of the results using a histogram shows that during both June and December, the mean and mode are near in both datasets.  The frequency of cool days, below the December average of 71F is less than  
 
 #####    Comparison of Summary Statistics
 https://github.com/cherylberger/Surfs_up/blob/main/Avg_temps_June_Dec.png
 
 ####    #2:  Range of Temperatures June vs December
     
-The lowest temperature observed in December was 56F compared to 64F in June. Interestingly, the maximum temperature in June was 85F compared to 83F in December, clearly there are still very warm days in December in Oahu, Hawaii!  
+In June, temperatures were observed in the range of 64 6p 85F, oompared to 56 to 83F in December. The lowest temperature observed in December was 56F compared to 64F in June. Interestingly, the maximum temperature in June was 85F compared to 83F in December, clearly there are still very warm days in December in Oahu, Hawaii!  
 
+![image](https://user-images.githubusercontent.com/94234511/151689826-a6943314-d586-4ffd-aa0d-d1001422c516.png)  ![image](https://user-images.githubusercontent.com/94234511/151689845-d20da4b9-1e9c-4dc8-b9c4-329c36577b1e.png)
  
 ####    #3:  Sample size by Month
     
-There were less data points in the December results, a total n=1517 compared to n=1700 for June. The reason for the missing data is not clear from the results but is not likey to impact the overall conclusions as the data is well behaved.    
+Once the query results were compiled into a convenient datatable using Pandas, a row count was generated for the both the June (june_df) and December (dec_df) DataFrames.  There were less data points (rows) in the December results, a total n=1517 compared to n=1700 for June. The reason for the missing data is not clear from the results.  There are 183 missing values in the December data which represents about 1% of the total data points for June (1700).  The missing datapoints are not likey to impact the overall conclusions as the December data appears to be normally distributed, the standard deviation is small and the results have no obvious outliers.     
 
 
 ## 3.	Summary of the Surfs_Up Analysis: 
@@ -78,6 +79,6 @@ Based on the temperature analysis, the average temperatures are above 70F in bot
 Although temperatures may be pleasant for most or all of the calendar year in Oahu; it would be useful to gather precipitation results for each month of the year and determine if there are trends in precipitation amounts during year.  Although storms are not alwaya predicatable, most geographic regions have similar weather patterns from year to year.  Rainy months or series of months were high ampunts of precipition are observed may preclude visits to the beach and/or influence the typical beach-goers desire for ice cream.  It may be useful to conduct research on operating schedules for similar business on the Island before finalizing the annual operating plans for the new ice cream shop.   
 
 ### Additional Query 2  
-Compare temperatures from each weather station to determine if location on the Island impacts either the temperature or the amount of precipitation.
+There is an additional dataset available to XXXX, the Stations datatable.  Weather information contained in this database provides additional measurements such as station name, location, wind speed measurements and possibly the time of day for tidal influences. These data could be analyzed to identify useful data and then filtered by location throughout the regions of the Island. Comparisons between individual or groups of weather station may be useful to determine if there are any trends in weather conditions by location on the Island.  This query could may also be useful in determining the best location for placement of the ice cream shop if the coorelation to weather remains the best predictor of business success. 
 Also look for trends across the entire dataset, were their storms or other events that impacted the weather in Oahu? 
 
