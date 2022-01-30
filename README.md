@@ -57,6 +57,9 @@ Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the 
 
 The average temperatures measured 74.9F in June and 72.0F in December, with June temperatures averaging approximately 7% higher than December. The data appears normally distributed and largely centralized around the mean for both June and December.  A comparison of the results using a histogram shows that during both June and December, the mean and mode are near in both datasets. 
 
+
+
+
 ##### Comparison of Summary Statistics
 
 
@@ -64,9 +67,6 @@ The average temperatures measured 74.9F in June and 72.0F in December, with June
     
 The lowest temperature observed in December was 56F compared to 64F in June. Interestingly, the maximum temperature in June was 85F compared to 83F in December, clearly there are still very warm days in December in Oahu, Hawaii.  
 
-![image](https://user-images.githubusercontent.com/94234511/151688373-5da14d3b-e4e5-4db5-bf88-a2b099ddff19.png)
-
-![image](https://user-images.githubusercontent.com/94234511/151688385-fe01694a-d2ce-4181-8e3c-ee6d35e5ed10.png)
 
  
 ####    * #3:  Sample size by Month
