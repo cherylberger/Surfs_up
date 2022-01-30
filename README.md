@@ -33,7 +33,7 @@ Using Python, Pandas functions and methods, and SQLAlchemy, filter the column of
 
 ### Determine the Summary Statistics for the month of December
 
-Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of December. The dependencies were loaded in Step 1 before analyzing the Juen results, the same dependencies and functions will be needed again for the analysis of the December data.  The code detailed below was added to new code blocks in (filename).
+Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of December. The dependencies were loaded in Step 1 before analyzing the Juen results, the same dependencies and functions will be needed again for the analysis of the December data.  The code detailed below was added to new code blocks in https://github.com/cherylberger/Surfs_up/blob/main/SurfsUp_Challenge.ipynb.
 
 #### Run the query
 ![image](https://user-images.githubusercontent.com/94234511/151652520-f5bfac51-0f3a-415c-b444-e3e613138f1c.png)
@@ -75,14 +75,6 @@ Compare temperatures from each weather station to determine if location on the I
 Also look for trends across the entire dataset, were their storms or other events that impacted the weather in Oahu? 
 
 
-#### Deliverable 3 Requirements
-
-##### Structure, Organization, and Formatting (6 points)
-
-###### The written analysis has the following structure, organization, and formatting:
-##### •	There is a title, and there are multiple sections. (2 pt)
-##### •	Each section has a heading and subheading. (2 pt)
-##### •	Links to images are working and displayed correctly. (2 pt)
 
 #### Analysis (14 points)
 ###### The written analysis has the following:
