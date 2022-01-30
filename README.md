@@ -3,7 +3,7 @@
 ### Cheryl Berger
 
 ## 1.	Overview of the Surfs_Up Analysis
-W. Avy is interested in the weather temperatures during the calendar year in Ohau so that he knows when to open his ice cream shop.  He has asked Surfs_up Inc. to compare temperatures in the summer to the winter temperatures to determine if it would be lucrative to reamain open all year long.  Using the the recent weather data found in file Hawaiii.sqlite https://github.com/cherylberger/Surfs_up/commit/56f426f175677560eba267b43b0a7858cbc551ce, the weather for the months of June and December will be queried and organized for comparison.  Three key differences in the weather results will be highlighted for W. Avy's consideration.  A summary of the results will be provided along with recommendations for additional analysis. 
+W. Avy is interested in the weather temperatures during the calendar year in Ohau so that he knows when to open his ice cream shop.  He has asked Surfs_up Inc. to compare temperatures in the summer to the winter temperatures to determine if it would be lucrative to reamain open all year long.  Using the the recent weather data found in file ![Hawaiii.sqlite](https://github.com/cherylberger/Surfs_up/commit/56f426f175677560eba267b43b0a7858cbc551ce), the weather for the months of June and December will be queried and organized for comparison.  Three key differences in the weather results will be highlighted for W. Avy's consideration.  A summary of the results will be provided along with recommendations for additional analysis. 
 
 ## 2.	Surfs_Up Analysis and Results: 
 
