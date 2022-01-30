@@ -2,17 +2,12 @@
 
 ## Cheryl Berger
 
-### Deliverable 3: A written report for the statistical analysis (20 points)
+### Deliverable 3: 
 
-### Deliverable 3 Instructions
-#### For this part of the Challenge, write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
-
-##### The analysis should contain the following:
-### 1.	Overview of the analysis: Explain the purpose of this analysis.
+### 1.	Overview of the Surfs_Up Analysis
 W. Avy is interested in the weather temperatures during the year in Ohau so that he knows when to open his ice cream shop.  He has asked XXX to compare temperatures in the summer to the winter temperatures.  Using the the recent weather data found in file Hawaiii.sqlite https://github.com/cherylberger/Surfs_up/commit/56f426f175677560eba267b43b0a7858cbc551ce, the weather for the months of June and December will be queried and organized for comparison.  The three key differences in the weather results will be highlighted for W. Avy's consideration.  A summary of the results will be provided along with recommendations for aditional analysis. 
 
-### 2.	Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-
+### 2.	Results: 
 Using Python, Pandas functions and methods, and SQLAlchemy, filter the column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June. Load all dependencies and import the required functions as displayed in the code block from file (Filename). 
 
 ![image](https://user-images.githubusercontent.com/94234511/151652230-b1577202-8252-457b-a806-072910b02c20.png)
@@ -25,15 +20,15 @@ Using Python, Pandas functions and methods, and SQLAlchemy, filter the column of
 #### Make a list
 ![image](https://user-images.githubusercontent.com/94234511/151652299-e988d0ea-1b1d-4dbb-8432-4d4a59a45d14.png)
 
-#### create the dataFrame
+#### Create the dataFrame
 ![image](https://user-images.githubusercontent.com/94234511/151652322-94f576af-b11a-4676-bef7-3cfc2ab29c8f.png
-
 
 #### Calculate the summary statistics
 ![image](https://user-images.githubusercontent.com/94234511/151652333-23eb4565-6cf0-453f-8c5b-5bbb1a45c705.png)
 
 #### Plot the data
 ![image](https://user-images.githubusercontent.com/94234511/151652344-a9ce6448-a123-4b5e-b47b-3a0f513b23f0.png)
+
 
 ### Determine the Summary Statistics for the month of December
 
@@ -59,22 +54,25 @@ Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the 
 The average temperatures are X in June and Y in December, with June temperatures averaging X% higher than December.
 
 
-### Key Difference #2:  The lowest temperature observed in December was XF compared to XF in June, however the spread is X for June and Y for Dec indicating_________
+### Key Difference #2:  
+The lowest temperature observed in December was XF compared to XF in June, however the spread is X for June and Y for Dec indicating_________
 
 
 
-### Key Differnece #3:  Less data points in the December results XXX compared to YYYY.  
+### Key Differnece #3:  
+Less data points in the December results XXX compared to YYYY.  
 
 
-
-### 3.	Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+### 3.	Summary: 
 
 ##### High Level Summary
 
-##### Additional Query 1  Gather precipitation results for each month
+##### Additional Query 1  
+Gather precipitation results for each month of the year and determine if there is a month or series of months were high precipition would preclude beach-goers desire for ice cream.  
 
-##### Additional Query 2  Compare temperatures from each weather station to determine if location on the Island impacts either the temperature or the amount of precipitation.
-
+##### Additional Query 2  
+Compare temperatures from each weather station to determine if location on the Island impacts either the temperature or the amount of precipitation.
+Also look for trends across the entire dataset, were their storms or other events that impacted the weather in Oahu? 
 
 
 #### Deliverable 3 Requirements
