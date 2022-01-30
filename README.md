@@ -57,7 +57,7 @@ Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the 
 The average temperatures measured 74.9F in June and 72.0F in December, with June temperatures averaging approximately 7% higher than December. The data appears normally distributed and largely centralized around the mean for both June and December.  Hpwever, the frequency of temperatures between 71F and 80F in June was similar for the years measured comparison of the results using a histogram shows that during both June and December, the mean and mode are near in both datasets.  The frequency of cool days, below the December average of 71F is less than  
 
 #####    Comparison of Summary Statistics
-[https://github.com/cherylberger/Surfs_up/blob/main/Avg_temps_June_Dec.png]
+[(https://github.com/cherylberger/Surfs_up/blob/main/Avg_temps_June_Dec.png)]
 
 ####    #2:  Range of Temperatures June vs December
     
