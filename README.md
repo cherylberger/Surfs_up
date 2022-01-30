@@ -23,7 +23,7 @@ Using Python, Pandas functions and methods, and SQLAlchemy, filter the column of
 ![image](https://user-images.githubusercontent.com/94234511/151652299-e988d0ea-1b1d-4dbb-8432-4d4a59a45d14.png)
 
 #### Create a Pandas DataFrame to store the temperature data for June from 2010 to 2019
-![image](https://user-images.githubusercontent.com/94234511/151688779-992864a6-9955-4468-a29c-4f64d2dccdea.png)
+![image](https://user-images.githubusercontent.com/94234511/151688984-512ade21-983a-4cfb-bdbc-30bd06c6a449.png)
 
 #### Calculate the summary statistics using the DataFrame created for the June query results. 
 ![image](https://user-images.githubusercontent.com/94234511/151652333-23eb4565-6cf0-453f-8c5b-5bbb1a45c705.png)
@@ -59,11 +59,9 @@ The average temperatures measured 74.9F in June and 72.0F in December, with June
 
 https://github.com/cherylberger/Surfs_up/blob/main/Avg_temps_June_Dec.png
 
-
 ##### Comparison of Summary Statistics
 
-
-####    * #2:  Range of Temperatures June vs December
+####    ** #2:  Range of Temperatures June vs December**
     
 The lowest temperature observed in December was 56F compared to 64F in June. Interestingly, the maximum temperature in June was 85F compared to 83F in December, clearly there are still very warm days in December in Oahu, Hawaii!  
 
